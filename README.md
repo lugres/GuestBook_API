@@ -3,6 +3,9 @@ GuestBook API study project (fastapi, PostgreSQL)
 
 GuestbookAPI app with PostgreSQL and FastAPI, deployed on Deta cloud; with a generic OOP DB helper with psycopg2 to generate dynamic SQL from Python code, no ORM was used.
 
+Have a look at it here:
+https://day_3_project-1-b2500601.deta.app/docs#/
+
 Project requirements:
  - a web-based API serving json and using postgres as persistance layer;
  - supports user regisration and authentication using HTTP Basic Auth;
